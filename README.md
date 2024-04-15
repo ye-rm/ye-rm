@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+ - 🏫 赛博理塘波普特
+ - 🐎 马勒综合征重度患者（severe mahler addition）
+ - 🥚 西北鼠人有时混进大雅之堂
+ - 🤡 春春消愁
+ 
 <!--
 **ye-rm/ye-rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

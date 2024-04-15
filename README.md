@@ -1,9 +1,9 @@
 ### Hi there 👋
 
- - 🏫 赛博理塘波普特
- - 🐎 马勒综合征重度患者（severe mahler addition）
- - 🥚 有时混进大雅之堂，鉴定为附庸风雅之辈！
- 
+ - 🏫 赛博理塘波普特🐭🐭
+ - 🐎 古典音乐半吊子，马勒综合征重度患者（love classics，severe mahler addition）
+ - 👻 跟风小鬼
+
 <!--
 **ye-rm/ye-rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

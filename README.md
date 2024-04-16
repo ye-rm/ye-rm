@@ -1,9 +1,7 @@
 ### Hi there 👋
 
- - 🏫 赛博理塘波普特🐭🐭
+ - 🏫 赛博理塘🐭
  - 🐎 古典音乐半吊子，马勒综合征重度患者（love classics，severe mahler addition）
- - 👻 跟风小鬼
-
 <!--
 **ye-rm/ye-rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

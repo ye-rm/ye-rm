@@ -2,8 +2,8 @@
 
  - 🏫 赛博理塘🐭🐭
  - 🐎 古典音乐半吊子，害了马勒综合征
- - 👈 湖畔的小屋，马勒曾经在此创作交响曲
- - ᯤ  [Look my stats](https://stats.fm/imahler)
+ - 👈 湖畔的小屋，马勒曾经在此创作交响曲(Gustav Mahler's lakeside cottage, where he wrote symphonies)
+ - ᯤ   [看看我的(view my stats)](https://stats.fm/imahler)
 <!--
 **ye-rm/ye-rm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

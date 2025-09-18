@@ -2,7 +2,7 @@
 
  - 🏫 赛博理塘🐭🐭(BUPT)
  - 🐎 古典音乐半吊子，害了马勒综合征(Love Classical music, especially Mahler)
- - 👈 湖畔的小屋，马勒曾经在此创作交响曲(Gustav Mahler's lakeside cottage, where he wrote No.3 symphony)
+ - 👈 湖畔的小屋，马勒在这里创作了第三交响曲(Gustav Mahler's lakeside cottage, where he wrote No.3 symphony)
  - 🎶 [my spotify stats](https://stats.fm/bruckmahler)
 
 <!--
